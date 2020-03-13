@@ -1,5 +1,5 @@
 # restfulcrud
-+ 基于rest的员工后台管理系统demo
++ 利用SpringBoot搭建的基于rest的员工后台管理系统demo
 + 实现了简单的增删查改，后期可以在此基础上进行扩充  
    
    
